@@ -1,0 +1,7 @@
+
+txttensorflow==2.16.1         
+deepxde>=1.11.0
+torch>=2.0                 
+numpy
+matplotlib
+imageio[ffmpeg]             # for saving the convergence video/gif
